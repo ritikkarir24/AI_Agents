@@ -38,19 +38,8 @@ AI_Agents/
 3. **Follow the agent-specific README for setup and usage.**
 
 
-## 💡 Contribution Guidelines
-Contributions are welcome! To contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
-
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
-
-## 🙌 Acknowledgments
-Thanks to the amazing AI community for continuous support and inspiration.
 
 ---
 **Crafted with passion and innovation. 💙**

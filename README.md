@@ -37,12 +37,6 @@ AI_Agents/
    ```
 3. **Follow the agent-specific README for setup and usage.**
 
-## 🧠 Technologies Used
-- **Python** 🐍
-- **Machine Learning Frameworks:** TensorFlow, PyTorch
-- **NLP Libraries:** Transformers, spaCy
-- **Data Handling:** Pandas, NumPy
-- **APIs & Integrations:** RESTful APIs, WebSocket
 
 ## 💡 Contribution Guidelines
 Contributions are welcome! To contribute:
